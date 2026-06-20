@@ -1,1 +1,1 @@
-![AI Chat Screenshot](./assets/ai_chat.png)
+![AI Chat Screenshot](./src/assets/ai_chat.png)
